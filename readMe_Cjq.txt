@@ -1,6 +1,2 @@
-git is a version 
-
-kkkkkkkkkkkkkkkk
-
-
-fffff
+git is a versio
+f u i o
