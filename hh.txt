@@ -1,2 +1,4 @@
 kkllll
-iiiiii
+<<<<<<< HEAD
+ooooo
+>>>>>>> featurel
