@@ -1,4 +1,2 @@
 kkllll
-<<<<<<< HEAD
-ooooo
->>>>>>> featurel
+ooo//meiyoujixiang
