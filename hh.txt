@@ -1,4 +1,8 @@
 kkllll
 ooo//meiyouji
+<<<<<<< HEAD
 add this
 who are you?
+=======
+jjjlll
+>>>>>>> dev
